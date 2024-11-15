@@ -52,12 +52,12 @@ function App() {
                   <strong>Birthday:</strong> 25 March 2002
                 </p>
                 <p>
-                  <strong>Website:</strong>{" "}
+                  <strong>Download CV:</strong>{" "}
                   <a
-                    href="https://thrishat.github.io/My-Portfolio"
+                    href="https://1drv.ms/b/c/79658b14baa1cb78/EUm9qvrAqsNArSFb17qeuAkBfpUpjhpzz7NHLsI3NJCWew?e=uBXPAb"
                     className="text-red-700"
                   >
-                    My Portfolio
+                    My CV
                   </a>
                 </p>
                 <p>
